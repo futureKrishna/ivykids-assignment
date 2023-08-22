@@ -18,3 +18,5 @@ Also want to mention the main functionality i have added-
 
 IN THE package.json file of the server, please update the start inside the scripts from "nodemon index.js" to "node index.js".
 THE OTHER WAY IS TO INSTALL THE "NODEMON" NPM PACKAGE.
+
+LET ME KNOW IF MORE INFORMATION IS NEED OR THERE"S ANY ISSUE LOADING THE APP.
